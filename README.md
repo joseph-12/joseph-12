@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @joseph-12
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Olá, sou @ joseph-12
+- 👀 Estou interessado em buscar conhecimento e oportunidades
+- 🌱 Atualmente estou aprendendo php,html,css,mysql
+- 💞️ Estou procurando colaborar e fazer parte de projetos 
+- 📫 Como chegar até mim: josephparentejw1@gmail.com
 
 <!---
 joseph-12/joseph-12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
