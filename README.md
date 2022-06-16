@@ -19,7 +19,7 @@
   <img align="center" alt="Joseph-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="right" alt="joseph" height="150" style="border-radius:50px;" src="https://discord.com/channels/929933558347358228/929933558347358231">
 </div>
- ##
+
   
   <div>
    
