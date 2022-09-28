@@ -1,16 +1,18 @@
 
-👋# Olá eu sou joseph parente
-👀Hoje estudo análise e densenvolvimento de sistemas
-🌱Curso técnico em desemvolvimento Web
-📫contate meu e-email: josephparentejw1@gmail.com
- ## Oiii eu sou joseph parente, sou estudante e apaixonado pela área!
+<h1>👋Hello i'm joseph</h1>
+👀Today I study systems analysis and Development
+🌱web development techical curse
+📫Contact my e-email: josephparentejw1@gmail.com
+ Hi I'm joseph relative, I'm student passionate technology !
  
 <div align="center">
   <a href="https://github.com/joseph-12">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josephparente&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josephparente&layout=compact&langs_count=7&theme=dark"/>
 </div>
-  
+  ##Under development
+  + ECOMERCE EM PHP END MY SQL
+  + PORTFOLIO ARTIS JOSY
   <div style="display: inline_block"><br>
   <img align="center" alt="Joseph-C" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align="center" alt="Joseph-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
