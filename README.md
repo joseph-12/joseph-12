@@ -4,12 +4,7 @@
 🌱web development techical curse
 📫Contact my e-email: josephparentejw1@gmail.com
  Hi I'm joseph relative, I'm student passionate technology !
- 
-<div align="center">
-  <a href="https://github.com/joseph-12">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josephparente&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josephparente&layout=compact&langs_count=7&theme=dark"/>
-</div>
+
   ##Under development
   + ECOMERCE EM PHP END MY SQL
   + PORTFOLIO ARTIS JOSY
