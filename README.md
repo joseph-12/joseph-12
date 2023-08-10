@@ -1,4 +1,4 @@
-# <Dev Web>
+# Dev Web
 
 ![GitHub](https://img.shields.io/github/license/seu-usuario/seu-repositorio)
 ![GitHub last commit](https://img.shields.io/github/last-commit/seu-usuario/seu-repositorio)
