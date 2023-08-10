@@ -8,8 +8,7 @@ Este é um projeto de exemplo que demonstra o uso de várias linguagens de progr
 
 ## Sobre o Desenvolvedor - Joseph Parente
 
-![Imagem do Joseph Parente](url-da-sua-imagem.jpg)
-
+https://drive.google.com/drive/my-drive
 Olá! Sou Joseph Parente, um entusiasta da programação e desenvolvimento web. Com uma paixão por resolver problemas complexos, tenho trabalhado com diversas linguagens de programação ao longo dos anos. Meu foco principal é criar experiências digitais incríveis e funcionais que combinam design e tecnologia.
 
 - **Localização:** Sua Cidade, Seu País
