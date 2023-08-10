@@ -13,9 +13,8 @@ Este é um projeto de exemplo que demonstra o uso de várias linguagens de progr
 Olá! Sou Joseph Parente, um entusiasta da programação e desenvolvimento web. Com uma paixão por resolver problemas complexos, tenho trabalhado com diversas linguagens de programação ao longo dos anos. Meu foco principal é criar experiências digitais incríveis e funcionais que combinam design e tecnologia.
 
 - **Localização:** Sua Cidade, Seu País
-- **LinkedIn:** [Joseph Parente](https://www.linkedin.com/in/seu-perfil-linkedin)
-- **Portfólio:** [Seu Portfólio Online](https://www.seu-site-de-portfolio.com)
-
+- **LinkedIn:** https://www.linkedin.com/in/joseph-silva-7221271aa/
+- **Portfólio:** https://joseph-12.github.io/Proj.portifolio/
 ## Linguagens Utilizadas
 
 ### PHP
