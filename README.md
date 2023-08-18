@@ -8,10 +8,9 @@ Este é um projeto de exemplo que demonstra o uso de várias linguagens de progr
 
 ## Sobre o Desenvolvedor - Joseph Parente
 
-https://drive.google.com/drive/my-drive
 Olá! Sou Joseph Parente, um entusiasta da programação e desenvolvimento web. Com uma paixão por resolver problemas complexos, tenho trabalhado com diversas linguagens de programação ao longo dos anos. Meu foco principal é criar experiências digitais incríveis e funcionais que combinam design e tecnologia.
 
-- **Localização:** Sua Cidade, Seu País
+- **Localização:** Manaus-Am
 - **LinkedIn:** https://www.linkedin.com/in/joseph-silva-7221271aa/
 - **Portfólio:** https://joseph-12.github.io/Proj.portifolio/
 ## Linguagens Utilizadas
@@ -56,7 +55,7 @@ Se você deseja contribuir para este projeto, siga as etapas abaixo:
 
 ## Licença
 
-Este projeto está licenciado sob a [Licença MIT](LICENSE), o que significa que você pode utilizá-lo livremente em projetos pessoais e comerciais.
+Este projeto está licenciado sob a [forestdev](LICENSE), o que significa que você pode utilizá-lo livremente em projetos pessoais e comerciais.
 
 ---
 
