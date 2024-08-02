@@ -38,6 +38,9 @@ A linguagem de programação C é uma linguagem de programação de propósito g
 
 ### Laravel 
 
+é um framework web MVC de código aberto para PHP.
+O criador do Laravel foi Taylor Otwell. Desde seu lançamento inicial em junho de 2011 (versão 1), ele se tornou cada vez mais popular no setor de framework PHP da indústria de desenvolvimento web.
+
 ## Como Contribuir
 
 Se você deseja contribuir para este projeto, siga as etapas abaixo:
